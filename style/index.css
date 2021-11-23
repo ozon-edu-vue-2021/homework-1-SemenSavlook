@@ -38,3 +38,8 @@ p {
 .math {
     margin-block-start: 1em;
 }
+
+.step {
+  font-style: italic;
+  font-weight: bolder;
+}
